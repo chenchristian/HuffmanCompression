@@ -1,5 +1,5 @@
 # HuffmanCompression
-a text file compression program using Huffman coding. The goal is to compress text files efficiently, potentially reducing their size by nearly half.
+A text file compression program using Huffman coding. The goal is to compress text files efficiently, potentially reducing their size by nearly half.
 
 
 Moby Dick compressed from 1.3mb to 708k. This is around a 65% of its original size. My program is implemented in two phases, a compress and a decompress.
